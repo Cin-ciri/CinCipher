@@ -1,13 +1,6 @@
 # CinCipher
 ***********
-  __/  \__
-   _\/\/_
- \_\_\/_/_/
- / /_/\_\ \
-  __/\/\__
-    \  /
-~Cin-ciri
-    
+  
 CinCipher is an ongoing project made by Cin-ciri, https://github.com/Cin-ciri.
 
 This project started in January 2018, with inspiration from the popular encryption, Caesar Cipher.
@@ -20,4 +13,5 @@ As of 12/26/2018:
   
 Current projects:
   * Enigma Cryptography
+  
 ***********
