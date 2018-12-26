@@ -20,5 +20,4 @@ As of 12/26/2018:
   
 Current projects:
   * Enigma Cryptography
-  
 ***********
